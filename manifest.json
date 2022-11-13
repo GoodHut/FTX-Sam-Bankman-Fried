@@ -1,0 +1,21 @@
+{
+  "short_name": "FTX",
+  "name": "FTX Cryptocurrency Derivatives Exchange",
+  "icons": [
+    {
+      "src": "/192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/mobile/",
+  "scope": "/",
+  "display": "standalone",
+  "theme_color": "#316c9a",
+  "background_color": "#316c9a"
+}
